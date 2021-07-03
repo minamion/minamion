@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **minamion/minamion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔Try to make some cool things
+- 🌱 Devops, Engineer, Katzdale Top 100 Youth, Advocate of Open Source Software
+- 🤔 Try to make some cool things
+
+> "Isn't it enough to sleep 4 hours every morning?"
