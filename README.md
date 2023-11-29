@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Devops, Engineer, Katzdale Top 100 Youth, Advocate of Open Source Software
-- 🤔 Try to make some cool things
-
+- 🌱 Full Stack developer, Stack Overflow driven development Engineer, Seabed Top 100 Youth, Advocate of Open Source Software
+- 🤔 Try to make things not boom or fire
+- 🎸 Bassist and code maestro, where low frequencies and high-level bugs tune into the same channel
+- 🚀 A passionate fan of ESP , but ESP Guitars and ESP32
 > "Isn't it enough to sleep 4 hours every morning?"
